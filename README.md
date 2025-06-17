@@ -21,6 +21,7 @@ Este proyecto es un frontend completo para una tienda de motocicletas que incluy
 - **Frontend**: HTML5, CSS3, JavaScript (jQuery)
 - **Arquitectura**: MVC (Model-View-Controller)
 - **HTTP Client**: Axios
+- **Frontend (React)**: React con TypeScript
 
 ## 📁 Estructura del Proyecto
 
